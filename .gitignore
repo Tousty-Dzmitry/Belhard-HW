@@ -62,7 +62,7 @@ notebooks/.ipynb_checkpoints/
 
 # Jupyter / Colab
 .ipynb_checkpoints/
-*.ipynb
+#*.ipynb
 
 # ================================
 # IDE и инструменты разработки
