@@ -1,4 +1,8 @@
 home_work-3
+.ipynb_checkpoints
+__pycache__
+.python-version
+catboost_info
 
 # ================================
 # Python
