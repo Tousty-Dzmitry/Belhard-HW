@@ -1,4 +1,3 @@
-
 import sqlite3
 import matplotlib.pyplot as plt
 from sqlalchemy.sql import text
