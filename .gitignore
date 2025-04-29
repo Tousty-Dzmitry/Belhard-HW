@@ -61,8 +61,7 @@ experiments/
 notebooks/.ipynb_checkpoints/
 
 # Jupyter / Colab
-.ipynb_checkpoints/
-*.ipynb
+
 
 # ================================
 # IDE и инструменты разработки
@@ -81,7 +80,7 @@ Thumbs.db
 # ================================
 .env
 .env.local
-.env.*.local
+.env.*.local 
 secrets.yml
 config.yml
 credentials.json
